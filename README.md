@@ -1,5 +1,7 @@
 ## Sleeping Teaching Assistant Problem.
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/efca906b73744bc194e27beb4e6728a1)](https://app.codacy.com/manual/99002572/linux-OS?utm_source=github.com&utm_medium=referral&utm_content=99002572/linux-OS&utm_campaign=Badge_Grade_Settings)
+
 This project uses 3 semaphores out of which one is a mutex-lock along with a variable.
 - sem_t sem_stu - Student
 - sem_t sem_ta - TA
