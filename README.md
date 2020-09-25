@@ -1,5 +1,7 @@
 ## Sleeping Teaching Assistant Problem.
 
+![cppcheck-action](https://github.com/99002572/linux-OS/workflows/cppcheck-action/badge.svg?branch=master)
+
 This project uses 3 semaphores out of which one is a mutex-lock along with a variable.
 - sem_t sem_stu - Student
 - sem_t sem_ta - TA
