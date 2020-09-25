@@ -22,4 +22,7 @@ Initially, the semaphores and the variable are given the following initial value
 
 4. When a student arrives while the TA is busy in a review session, and all the seats in the hallway are occupied. Then, student will have to leave the hallway and come back later. When the student comes back, eventually, and there is a seat available, he will take a seat and wait for his turn with the TA.
 
+## Badges:
+
+
 
