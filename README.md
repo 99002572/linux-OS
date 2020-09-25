@@ -1,11 +1,11 @@
 
-#Badges
+# Badges
 
 ![cppcheck-action](https://github.com/99002572/linux-OS/workflows/cppcheck-action/badge.svg?branch=master)    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/649949a64bb24a3ca02ed3d91a17e95f)](https://www.codacy.com/manual/99002572/linux-OS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002572/linux-OS&amp;utm_campaign=Badge_Grade)    ![CI](https://github.com/99002572/linux-OS/workflows/CI/badge.svg)
 
 
 
-##Sleeping Teaching Assistant Problem.
+## Sleeping Teaching Assistant Problem.
 
 This project uses 3 semaphores out of which one is a mutex-lock along with a variable.
 - sem_t sem_stu - Student
