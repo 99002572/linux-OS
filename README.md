@@ -1,10 +1,4 @@
-## Sleeping Teaching Assistant Problem
-
-- [x] Simulated sleeping TA scenarios using POSIX threads, semaphores and a FIFO queue using C programming
-- [x] Implemented mutex-lock and FIFO queue to avoid deadlock and starvation scenarios
-
-
-The teaching Assistant Problem can solve by 4 different scenarios.
+## Sleeping Teaching Assistant Problem.
 
 This project uses 3 semaphores out of which one is a mutex-lock along with a variable.
 - sem_t sem_stu - Student
@@ -20,7 +14,7 @@ Initially, the semaphores and the variable are given the following initial value
 
 ### Four Scenarios
 
-1. There will be zero students coming to visit the TA and the TA will check the hallway outside his office to see if there are any othe students seated and waiting for him. If there are none, the TA will sleep in his office.
+1. There is zero student come to visit TA. TA will check the hallway outside his office to see if there are any othe students seated and waiting for him. If there are none, the TA will sleep in his office.
 
 2. When a student arrives at the TA’s office and finds the TA sleeping. Then the student will awaken the TA and ask for help. When the TA assists the student, the student's semaphore changes from 0 to 1 and waits for the TA's semaphore. When the TA finishes helping one student, he will check if there is any other student waiting in the hallway. If yes, he will help the next student and if not, TA goes back to sleeping and TA's semaphore becomes 1 and awaits student's semaphore.
 
