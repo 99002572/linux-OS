@@ -1,7 +1,7 @@
 
 # Badges
 
-![cppcheck-action](https://github.com/99002572/linux-OS/workflows/cppcheck-action/badge.svg?branch=master)    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/649949a64bb24a3ca02ed3d91a17e95f)](https://www.codacy.com/manual/99002572/linux-OS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002572/linux-OS&amp;utm_campaign=Badge_Grade)    ![CI](https://github.com/99002572/linux-OS/workflows/CI/badge.svg)  ![C/C++ CI](https://github.com/99002551/linux-OS/workflows/C/C++%20CI/badge.svg)
+![cppcheck-action](https://github.com/99002572/linux-OS/workflows/cppcheck-action/badge.svg?branch=master)    [![Codacy Badge](https://app.codacy.com/project/badge/Grade/649949a64bb24a3ca02ed3d91a17e95f)](https://www.codacy.com/manual/99002572/linux-OS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002572/linux-OS&amp;utm_campaign=Badge_Grade)    ![CI](https://github.com/99002572/linux-OS/workflows/CI/badge.svg)  ![C/C++ CI](https://github.com/99002551/Linux-OS/workflows/C/C++%20CI/badge.svg)
 
 
 
